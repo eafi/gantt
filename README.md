@@ -68,10 +68,13 @@ const unsigned OPTIMAL_TIME = 16; //已知的最优化时间，用以缩放画�
 
 # 运行结果
 J5P3M3
+
 ![J5M3P3](examples/J5P3M3.png)
 
 其他结果：J20P10M10
 
+
+![J20M10P10](examples/J20P10M10.png)
 
 
 
